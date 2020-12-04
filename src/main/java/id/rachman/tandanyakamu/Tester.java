@@ -6,7 +6,6 @@
 package id.rachman.tandanyakamu;
 
 /**
- *
  * @author
  * NAMA     : Rachman Aldiansyah
  * KELAS    : IF-1
@@ -21,7 +20,7 @@ public class Tester {
         Scanner sc = new Scanner(System.in);
         Age usia = new Age(2018);
         
-        System.out.println("Masukan Tahun Lahir Anda : ");
+        System.out.print("Masukan Tahun Lahir Anda : ");
         usia.setYearBirth(sc.nextInt());
         
         System.out.println("\n=====Hasil Perhitungan Umur=====");

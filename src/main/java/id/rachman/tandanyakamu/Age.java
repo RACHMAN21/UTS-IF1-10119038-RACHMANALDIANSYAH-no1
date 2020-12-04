@@ -6,7 +6,6 @@
 package id.rachman.tandanyakamu;
 
 /**
- *
  * @author
  * NAMA     : Rachman Aldiansyah
  * KELAS    : IF-1
